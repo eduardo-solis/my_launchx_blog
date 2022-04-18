@@ -9,7 +9,6 @@ Para mi la cultura de un desarrollador de software se basa en lo siguiente:
 - Respeto
 - Trabajo en equipo
 - Responsabilidad
-- Dedicación
 - Honestidad
 - Creatividad
 
