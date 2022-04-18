@@ -9,13 +9,15 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Mi nombre es Eduardo
+> Soy un estudiante de Ingeniería en Desarrollo y Gestión de Software en la Universidad Tecnologica de León
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+**Por lo general me considero** una persona que le gusta sentirse en paz con la vida, me agrada hacer amigos y ser muy amigable.
+
+Mis hobbies son:
+
+- Ver series / peliculas / animes
+- Jugar videojuegos
+- Estudiar / entrar a cursos
+- Estar con mi familia
 
